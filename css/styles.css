@@ -12,8 +12,17 @@ button {
     line-height: 139%;
     font-weight: 500, Medium;
 }
-button:hover {
+button.yt-icon-button:hover {
     color: #2196F3;
+}
+button.yt-icon-button:focus {
+    color: #2196F3;
+}
+button:hover {
+    color: #FFFFFF;
+}
+button:focus {
+    color: #FFFFFF;
 }
 a:hover {
     color: #2196F3;

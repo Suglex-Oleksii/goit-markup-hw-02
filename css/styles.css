@@ -12,3 +12,5 @@ button {
     line-height: 139%;
     font-weight: 500, Medium;
 }
+button :hover {
+    color: #2196F3;

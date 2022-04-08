@@ -12,6 +12,12 @@ button {
     line-height: 139%;
     font-weight: 500, Medium;
 }
-button :hover {
+button:hover {
+    color: #2196F3;
+}
+a:hover {
+    color: #2196F3;
+}
+a:focus {
     color: #2196F3;
 }

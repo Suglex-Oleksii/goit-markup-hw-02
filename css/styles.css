@@ -12,12 +12,6 @@ button {
     line-height: 139%;
     font-weight: 500, Medium;
 }
-button.yt-icon-button:hover {
-    color: #2196F3;
-}
-button.yt-icon-button:focus {
-    color: #2196F3;
-}
 button:hover {
     color: #FFFFFF;
 }
@@ -28,5 +22,13 @@ a:hover {
     color: #2196F3;
 }
 a:focus {
+    color: #2196F3;
+}
+button.yt-icon-button:hover {
+    vertical-align: middle;
+    color: #2196F3;
+}
+button.yt-icon-button:focus {
+    vertical-align: middle;
     color: #2196F3;
 }

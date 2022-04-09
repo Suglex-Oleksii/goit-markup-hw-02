@@ -12,6 +12,8 @@
     --black:#212121;
     --blue:#2196F3;
     --white: #FFFFFF;
+    --white: #E5E5E5;
+    --grey: #757575; 
 }
  .logo {
     font-family: Raleway;
@@ -20,8 +22,7 @@
     line-height: 31px;
     letter-spacing: 0.03em;
     text-align: left;
-    color: #212121;
-    
+    color: #212121; 
     font-family: Oleo Script;
     font-size: 26px;
     font-weight: 400;
@@ -29,7 +30,11 @@
     letter-spacing: 0.03em;
     text-align: left;
     color: #2196F3;
-}   
+} 
+
+
+
+
 button {
     font-family: Roboto;
     color: #212121;

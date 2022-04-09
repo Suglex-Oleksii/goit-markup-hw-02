@@ -27,10 +27,9 @@
     font-weight: 400;
     line-height: 36px;
     letter-spacing: 0.03em;
-    text-align: right;
+    text-align: left;
     color: #2196F3;
 }   
-
 .button {
     font-family: Roboto;
     color: #212121;

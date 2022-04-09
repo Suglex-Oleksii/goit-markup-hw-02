@@ -27,7 +27,7 @@
     text-align: left;
     color: #2196F3;
     } 
-.llogo-right {
+.logo-right {
     font-family: Raleway;
     font-size: 26px;
     font-weight: 700;
@@ -37,12 +37,20 @@
     color: #212121;
     } 
 
-ul {list-style: none;}
-
-.aside-nav .link {
+a: {
     
 }
 
+
+
+
+
+a:hover {
+        color: #2196F3;
+    }
+a:focus {
+        color: #2196F3;
+    }
 
 
 

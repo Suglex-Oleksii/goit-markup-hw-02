@@ -1,40 +1,8 @@
 .body {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    height: 100ch;
     background-color: #E5E5E5;
     font-family: Roboto;
     color: #212121;
     }
-:root{
-    --black:#212121;
-    --blue:#2196F3;
-    --white: #FFFFFF;
-    --white: #E5E5E5;
-    --grey: #757575; 
-}
- .logo {
-    font-family: Raleway;
-    font-size: 26px;
-    font-weight: 700;
-    line-height: 31px;
-    letter-spacing: 0.03em;
-    text-align: left;
-    color: #212121; 
-    font-family: Oleo Script;
-    font-size: 26px;
-    font-weight: 400;
-    line-height: 36px;
-    letter-spacing: 0.03em;
-    text-align: left;
-    color: #2196F3;
-} 
-
-
-
-
 button {
     font-family: Roboto;
     color: #212121;

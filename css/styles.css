@@ -2,13 +2,14 @@ body {
     font-family: Roboto;
     color: #212121;
     }
- .logo:hover {
+ .logo {
     font-family: Raleway;
     font-size: 26px;
     font-weight: 700;
     line-height: 31px;
     letter-spacing: 0.03em;
     text-align: left;
+    color: #212121;
     
     font-family: Oleo Script;
     font-size: 26px;
@@ -16,16 +17,17 @@ body {
     line-height: 36px;
     letter-spacing: 0.03em;
     text-align: left;
+    color: #2196F3;
 }   
 
-button {
+.button {
     font-family: Roboto;
     color: #212121;
     font-size: 16px;
     line-height: 139%;
     font-weight: 500, Medium;
 }
-button:hover {
+.button:hover {
     background-color: #2196F3;
     color: #FFFFFF;
 }

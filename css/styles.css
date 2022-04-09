@@ -66,11 +66,13 @@
     line-height: 139%;
     font-weight: 500, Medium;
 }
+
 .button:hover,
 .button:focus {
     background-color: #2196F3;
     color: #FFFFFF;
 }
+
 .content .h2 {
     color: #212121;
     font-family: Roboto;
@@ -113,5 +115,6 @@
 .aside-address .link:hover,
 .aside-address .link:focus {
     color: #2196F3;
+}
 
 

@@ -4,6 +4,7 @@
     --white: #FFFFFF;
     --white: #E5E5E5;
     --grey: #757575; 
+    --grey: #2F303A;
 }    
 .title {
     color: #FFFFFF;
@@ -60,19 +61,18 @@
     color: #2196F3;
 }
 .button {
+    background-color: #F5F4FA;
     font-family: Roboto;
     color: #212121;
     font-size: 16px;
     line-height: 139%;
     font-weight: 500, Medium;
 }
-
 .button:hover,
 .button:focus {
     background-color: #2196F3;
     color: #FFFFFF;
 }
-
 .content .h2 {
     color: #212121;
     font-family: Roboto;

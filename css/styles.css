@@ -1,7 +1,15 @@
+.title {
+    color: #FFFFFF;
+    font-weight: 1600px;
+    line-height: 1880px;
+} 
 .body {
     background-color: #E5E5E5;
     font-family: Roboto;
     color: #212121;
+    }
+.header {
+    background-color: #FFFFFF;
     }
 .logo1 {
     font-family: Oleo Script;
@@ -21,6 +29,9 @@
     text-align: left;
     color: #212121;
     } 
+ul {list-style: none;}
+
+
 
 
 

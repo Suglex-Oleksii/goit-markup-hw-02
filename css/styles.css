@@ -18,7 +18,7 @@
 .header {
     background-color: #FFFFFF;
     }
-.logo-left {
+.header .logo-left {
     font-family: Oleo Script;
     font-size: 26px;
     font-weight: 400;
@@ -27,7 +27,7 @@
     text-align: left;
     color: #2196F3;
     } 
-.logo-right {
+.header .logo-right {
     font-family: Raleway;
     font-size: 26px;
     font-weight: 700;
@@ -46,7 +46,6 @@
 .aside-nav .link:focus {
     color: #2196F3;
 }
-
 .link-mail,
 .link-tel {
     color: #757575;
@@ -60,25 +59,59 @@
 .link-tel:focus {
     color: #2196F3;
 }
-
-
-
-
-
-
-button {
+.button {
     font-family: Roboto;
     color: #212121;
     font-size: 16px;
     line-height: 139%;
     font-weight: 500, Medium;
 }
-button:hover {
+.button:hover,
+.button:focus {
     background-color: #2196F3;
     color: #FFFFFF;
 }
-button:focus {
-    background-color: #2196F3;
-    color: #FFFFFF;
+.content .h2 {
+    color: #212121;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;    
 }
+.content .p {
+    color: #757575;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;    
+}
+.footer {
+    background-color: #2F303A;
+    }
+.footer .logo-left {
+    font-family: Oleo Script;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #2196F3;
+    } 
+.footer .logo-right {
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #FFFFFF;
+    } 
+.aside-address .link {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    }
+.aside-address .link:hover,
+.aside-address .link:focus {
+    color: #2196F3;
+
 

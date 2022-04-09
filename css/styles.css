@@ -36,22 +36,30 @@
     text-align: left;
     color: #212121;
     } 
-
-a: {
-    
+.aside-nav .link {
+    color: #212121;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+}
+.aside-nav .link:hover,
+.aside-nav .link:focus {
+    color: #2196F3;
 }
 
-
-
-
-
-a:hover {
-        color: #2196F3;
-    }
-a:focus {
-        color: #2196F3;
-    }
-
+.link-mail,
+.link-tel {
+    color: #757575;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+}
+.link-mail:hover, 
+.link-mail:focus,
+.link-tel:hover
+.link-tel:focus {
+    color: #2196F3;
+}
 
 
 

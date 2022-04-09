@@ -1,3 +1,10 @@
+:root{
+    --black:#212121;
+    --blue:#2196F3;
+    --white: #FFFFFF;
+    --white: #E5E5E5;
+    --grey: #757575; 
+}    
 .title {
     color: #FFFFFF;
     font-weight: 1600px;
@@ -11,7 +18,7 @@
 .header {
     background-color: #FFFFFF;
     }
-.logo1 {
+.logo-left {
     font-family: Oleo Script;
     font-size: 26px;
     font-weight: 400;
@@ -20,7 +27,7 @@
     text-align: left;
     color: #2196F3;
     } 
-.logo2 {
+.llogo-right {
     font-family: Raleway;
     font-size: 26px;
     font-weight: 700;
@@ -29,9 +36,12 @@
     text-align: left;
     color: #212121;
     } 
+
 ul {list-style: none;}
 
-
+.aside-nav .link {
+    
+}
 
 
 

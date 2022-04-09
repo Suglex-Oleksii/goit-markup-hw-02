@@ -81,6 +81,12 @@
     background-color: #2196F3;
     color: #FFFFFF;
 }
+.content .img {
+    font-weight: 370px; 
+    height: 294px;
+    top: 262px;
+    left: 615px;
+}
 .content .title {
     color: #212121;
     font-family: Roboto;

@@ -12,6 +12,11 @@
     line-height: 1880px;
 } 
 .body {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: 100ch;
     background-color: #E5E5E5;
     font-family: Roboto;
     color: #212121;

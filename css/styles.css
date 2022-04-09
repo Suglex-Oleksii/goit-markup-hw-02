@@ -60,7 +60,7 @@
 .link-tel:focus {
     color: #2196F3;
 }
-.button {
+.row .button {
     background-color: #F5F4FA;
     font-family: Roboto;
     color: #212121;
@@ -68,11 +68,11 @@
     line-height: 139%;
     font-weight: 500;
 }
-.button:hover {
+.row .button:hover {
     background-color: #2196F3;
     color: #FFFFFF;
 }
-.button:focus {
+.row .button:focus {
     background-color: #2196F3;
     color: #FFFFFF;
 }

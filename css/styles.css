@@ -78,9 +78,15 @@
 }
 .content .title {
     color: #212121;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700; 
 }
 .content .text {
-    color: #757575; 
+    color: #757575;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;    
 }
 .footer {
     background-color: #2F303A;
@@ -113,5 +119,3 @@
 .aside-address .link:focus {
     color: #2196F3;
 }
-
-

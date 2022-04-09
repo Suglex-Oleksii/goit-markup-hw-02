@@ -68,7 +68,10 @@
     line-height: 139%;
     font-weight: 500, Medium;
 }
-.button:hover,
+.button:hover {
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
 .button:focus {
     background-color: #2196F3;
     color: #FFFFFF;

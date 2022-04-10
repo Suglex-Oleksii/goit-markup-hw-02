@@ -59,17 +59,20 @@
 .link-tel:hover,
 .link-tel:focus {
     color: #2196F3;
-}   
+} 
 .main {
+    background-color: #E5E5E5;
+}  
+.main-1 {
     background-color: #2F303A;
 }
-.main .title {
+.main-1 .title {
     color: #FFFFFF;
     font-family: Roboto;
     font-size: 44px;
     font-weight: 900;
 }
-.main .button {
+.main-1 .button {
     background-color: #F5F4FA;
     font-family: Roboto;
     color: #212121;
@@ -77,11 +80,11 @@
     line-height: 160%;
     font-weight: 700;
 }
-.main .button:hover {
+.main-1 .button:hover {
     background-color: #2196F3;
     color: #FFFFFF;
 }
-.main .button:focus {
+.main-1 .button:focus {
     background-color: #2196F3;
     color: #FFFFFF;
 }

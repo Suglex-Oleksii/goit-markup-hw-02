@@ -20,10 +20,10 @@
     background-color: #E5E5E5;
     font-family: Roboto;
     color: #212121;
-    }
+}
 .header {
     background-color: #FFFFFF;
-    }
+}
 .header .logo-left {
     font-family: Oleo Script;
     font-size: 26px;
@@ -32,7 +32,7 @@
     letter-spacing: 0.03em;
     text-align: left;
     color: #2196F3;
-    } 
+} 
 .header .logo-right {
     font-family: Raleway;
     font-size: 26px;
@@ -41,7 +41,7 @@
     letter-spacing: 0.03em;
     text-align: left;
     color: #212121;
-    } 
+}
 .aside-nav .link {
     color: #212121;
     font-family: Roboto;
@@ -64,6 +64,92 @@
 .link-tel:hover,
 .link-tel:focus {
     color: #2196F3;
+}   
+.main {
+    background-color: #2F303A;
+}
+.main .title {
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 900;
+}
+.main .button {
+    background-color: #F5F4FA;
+    font-family: Roboto;
+    color: #212121;
+    font-size: 16px;
+    line-height: 160%;
+    font-weight: 700;
+}
+.main .button:hover {
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
+.main .button:focus {
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
+.section-1 {
+    background-color: #E5E5E5;
+}
+.section-1 .title {
+    color: #212121;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+}
+.section-1 .subtitle .title {
+    color: #212121;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+}
+.section-1 .subtitle .text {
+    color: #757575;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+}
+.section-2 {
+    background-color: #E5E5E5;
+}
+.section-2 .title {
+    color: #212121;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+}
+.section-2 .img {
+    font-weight: 370px; 
+    height: 294px;
+    top: 1061px;
+}
+.section-3 {
+    background-color: #F5F4FA;
+}
+.section-3 .title {
+    color: #212121;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+}
+.section-3 .subtitle-2 .img {
+    font-weight: 270px; 
+    height: 260px;
+    top: 1635px;
+}
+.section-3 .subtitle-2 .title {
+    color: #212121;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+}
+.section-3 .subtitle-2 .text {
+    color: #757575;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
 }
 .row .button {
     background-color: #F5F4FA;
@@ -101,7 +187,7 @@
 }
 .footer {
     background-color: #2F303A;
-    }
+}
 .footer .logo-left {
     font-family: Oleo Script;
     font-size: 26px;
@@ -110,7 +196,7 @@
     letter-spacing: 0.03em;
     text-align: left;
     color: #2196F3;
-    } 
+} 
 .footer .logo-right {
     font-family: Raleway;
     font-size: 26px;
@@ -119,13 +205,13 @@
     letter-spacing: 0.03em;
     text-align: left;
     color: #FFFFFF;
-    } 
+} 
 .aside-address .link {
     color: #FFFFFF;
     font-family: Roboto;
     font-size: 14px;
     font-weight: 400;
-    }
+}
 .aside-address .link:hover,
 .aside-address .link:focus {
     color: #2196F3;

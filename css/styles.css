@@ -20,18 +20,21 @@
   font-size: 26px;
   line-height: 100%;
   color: var(--active-button-color);
+  text-decoration: none;
 }
 .header .logo-right {
   font-family: "Raleway";
   font-size: 26px;
   line-height: 100%;
   color: var(--title-color);
+  text-decoration: none;
 }
 .aside-nav .link {
   font-family: "Roboto";
   font-size: 14px;
   line-height: 100%;
   color: var(--title-color);
+  text-decoration: none;
 }
 .aside-nav .link:hover,
 .aside-nav .link:focus {
@@ -43,6 +46,7 @@
   font-size: 14px;
   line-height: 100%;
   color: var(--text-color);
+  text-decoration: none;
 }
 .link-mail:hover,
 .link-mail:focus,
@@ -178,18 +182,21 @@
   font-size: 26px;
   line-height: 100%;
   color: var(--active-button-color);
+  text-decoration: none;
 }
 .footer .logo-right {
   font-family: "Raleway";
   font-size: 26px;
   line-height: 100%;
   color: var(--background-header-color);
+  text-decoration: none;
 }
 .footer .aside-address .link {
   font-family: "Roboto";
   font-size: 14px;
   line-height: 146%;
   color: var(--background-header-color);
+  text-decoration: none;
 }
 .footer .aside-address .link:hover,
 .footer .aside-address .link:focus {

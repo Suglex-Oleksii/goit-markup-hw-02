@@ -61,18 +61,15 @@
     color: #2196F3;
 } 
 .main {
-    background-color: #E5E5E5;
-}  
-.main-1 {
     background-color: #2F303A;
 }
-.main-1 .title {
+.main .title {
     color: #FFFFFF;
     font-family: Roboto;
     font-size: 44px;
     font-weight: 900;
 }
-.main-1 .button {
+.main .button {
     background-color: #F5F4FA;
     font-family: Roboto;
     color: #212121;
@@ -80,11 +77,11 @@
     line-height: 160%;
     font-weight: 700;
 }
-.main-1 .button:hover {
+.main .button:hover {
     background-color: #2196F3;
     color: #FFFFFF;
 }
-.main-1 .button:focus {
+.main .button:focus {
     background-color: #2196F3;
     color: #FFFFFF;
 }

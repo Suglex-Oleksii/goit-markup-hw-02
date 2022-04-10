@@ -1,41 +1,31 @@
 :root {
-  --black: #212121;
-  --blue: #2196f3;
-  --white: #ffffff;
-  --white: #e5e5e5;
-  --grey: #757575;
-  --grey: #2f303a;
-}
-.title {
-  color: #ffffff;
-  font-weight: 1600px;
-  line-height: 1880px;
+  --title-color: #212121;
+  --text-color: #757575;
+  --active-button-color: #2196f3;
+  --background-footer-color: #2f303a;
+  --background-header-color: #ffffff;
+  --background-first-color: #e5e5e5;
+  --background-second-color: #f5f4fa;
 }
 .body {
-  background-color: #e5e5e5;
-  font-family: Roboto;
-  color: #212121;
+  background-color: var(--background-first-color);
+  color: var(--title-color);
+  font-family: "Roboto", "Raleway", sans-serif;
 }
 .header {
-  background-color: #ffffff;
+  background-color: var(--background-header-color);
 }
 .header .logo-left {
-  font-family: Oleo Script;
+  font-family: "Oleo Script";
   font-size: 26px;
-  font-weight: 400;
-  line-height: 36px;
-  letter-spacing: 0.03em;
-  text-align: left;
-  color: #2196f3;
+  line-height: 100%;
+  color: var(--active-button-color);
 }
 .header .logo-right {
-  font-family: Raleway;
+  font-family: "Raleway";
   font-size: 26px;
-  font-weight: 700;
-  line-height: 31px;
-  letter-spacing: 0.03em;
-  text-align: left;
-  color: #212121;
+  line-height: 100%;
+  color: var(--title-color);
 }
 .aside-nav .link {
   color: #212121;
